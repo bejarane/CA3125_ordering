@@ -13,7 +13,7 @@ Todos los algoritmos se han implementado a través de la interpretación de refe
 ## Funcionamiento
 ### Algoritmos
 El programa utiliza una implementación simple para los algoritmos de Bubblesort, Mergesort y Quicksort derivada de las definiciones teóricas de los mismos.
-El algoritmo de Mergesort está basado en el algoritmo presentado en [Geeks for Geeks] (https://www.geeksforgeeks.org/merge-sort/ "Mergesort") al igual que el algoritmo de Radixsort que se encuentra en el mismo [sitio](https://www.geeksforgeeks.org/radix-sort/ "Radixsort").
+El algoritmo de Mergesort está basado en el algoritmo presentado en [Geeks for Geeks](https://www.geeksforgeeks.org/merge-sort/ "Mergesort") al igual que el algoritmo de Radixsort que se encuentra en el mismo [sitio](https://www.geeksforgeeks.org/radix-sort/ "Radixsort").
 
 Cada algoritmo se ejecuta de manera recurrente hasta ordenar todo el conjunto.
 
