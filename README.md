@@ -24,3 +24,5 @@ El programa genera un conjunto de datos aleatorios a través del algoritmo de Me
 El flujo normal del programa es generar un conjunto de datos de prueba de tamaño **b** y utilizar cada uno de los algoritmos para ordenarlo **a** veces. 
 
 Durante el proceso el sistema se encarga de almacenar el tiempo acumulado por cada algoritmo y posteriormente imprimir el resultado debidamente organizado en consola.
+
+Prob
